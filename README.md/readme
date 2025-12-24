@@ -1,0 +1,28 @@
+## --- README.md ---
+# Hospital Resource Forecasting Framework
+
+## Objectives
+1. Forecast ICU & general bed usage, staff allocation, and ventilators using time series LSTM models.
+2. Provide an interactive dashboard for hospital administrators.
+3. Enable resource planning with predictive insights.
+
+## How to Run
+
+1. Train models:
+```bash
+python src/train_models.py
+```
+
+2. Forecast & inspect:
+```bash
+python src/forecasting.py
+```
+
+3. Run the dashboard:
+```bash
+streamlit run dashboard/app.py
+```
+
+Ensure your folder looks like this and data exists inside `data/` folder.
+
+---
