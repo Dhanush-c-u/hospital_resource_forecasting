@@ -11,26 +11,38 @@ The framework is modular, scalable, and adaptable, making it suitable for deploy
   >General ward beds
   >Ventilators
   >Medical staff (doctors & nurses)
+
 -Design a multivariate time-series forecasting system
+
 -Provide an interactive visualization dashboard for hospital administrators
+
 -Enable proactive planning for emergency preparedness and surge management
+
 -Improve operational efficiency and resource allocation
 --------------------------------------------------------------------------
 🧠 Key Concepts & Techniques:
 
 -Time-Series Forecasting
+
 -Deep Learning (LSTM Networks)
+
 -Multivariate Temporal Modeling
+
 -Feature Engineering & Lag Analysis
+
 -Model Evaluation (RMSE, MAE, R²)
+
 -Real-time Data Visualization
 --------------------------------------------------------------------------
 🛠️ Tech Stack:
 
 -Programming Language: Python
+
 -Deep Learning: TensorFlow / Keras
+
 -Data Analysis: Pandas, NumPy
--Visualization & Dashboard: Streamlit, Matplotlib
+
+-Visualization & Dashboard: Streamlit
 --------------------------------------------------------------------------
 Modeling Techniques:
 
